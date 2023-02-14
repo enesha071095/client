@@ -1,0 +1,16 @@
+#classicformpage .view {
+    background-image: url("https://belwood.kz/upload/iblock/286/2868e20cde732faa6e81ab52d90ea3b3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+  }
+
+  #classicformpage .gradient {
+
+    background: linear-gradient(
+      45deg,
+      rgba(0, 0, 0, 0.7),
+      rgba(61, 46, 20, 0.4) 100%
+    );
+  }
